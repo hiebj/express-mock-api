@@ -1,0 +1,20 @@
+{
+  "name": "express-mock-api",
+  "description": "Example demonstrating the use of express to quickly create a mock API",
+  "version": "0.0.1",
+  "repository": "hiebj/express-mock-api",
+  "author": "Jonathan Hieb",
+  "keywords": [
+    "express",
+    "mock",
+    "api",
+    "rest"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "scripts": {
+    "start": "node --harmony --harmony_default_parameters server.js"
+  }
+}
